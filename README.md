@@ -1,2 +1,2 @@
 # CSS-Flexbox
- Site em desenvolvimento utilizando o layout flexbox.
+ Site desenvolvido utilizando o layout flexbox.
