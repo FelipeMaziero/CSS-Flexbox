@@ -389,7 +389,7 @@ img {
 
 .newsletter-form button {
   flex: 1 1 200px;
-  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-family: "Nunito", Arial, Helvetica;
   font-size: 2.25em;
   font-weight: bold;
   text-transform: uppercase;
